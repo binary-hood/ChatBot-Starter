@@ -10,12 +10,10 @@ If you have Python & pip installed then check their version in the terminal or c
 
 ```
 python3 --version
-
 ```
 
 ```
 pip --version
-
 ```
 
 ## Installing Flask
